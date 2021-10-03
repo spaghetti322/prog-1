@@ -53,4 +53,4 @@ for i in range(len(modules)):
     dictionary = {**dictionary, **dictionary_list[i]}
 print('Странный словарь:', dictionary)
 print('\nЧисло fun-ов:', fun_counter)
-print('\nСписок *Found x modes*:', modes_l)
+print('\nСписок **Found x modes**:', modes_l)
